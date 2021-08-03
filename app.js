@@ -12,7 +12,7 @@ switch(dynamic_id) {
         h1 = 'Jual pentol jakarta enak dan higenies';
         break;
     
-        case ''jual-pentol-bakar:
+        case 'jual-pentol-bakar':
             h1 = 'Jual Pentol Bakar enak dan nikmat';
         break;
 
